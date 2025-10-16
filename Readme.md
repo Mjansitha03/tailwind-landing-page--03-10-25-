@@ -11,7 +11,7 @@ This project is a responsive landing page built with Tailwind CSS.
 
 ## Clone the repository:
     
-    git clone https://tailwind-css-landing-page1.netlify.app/
+    git clone https://learningplatformweb.vercel.app/
     
 
 ## Folder Structure
